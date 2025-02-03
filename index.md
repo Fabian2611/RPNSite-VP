@@ -4,22 +4,24 @@ layout: home
 
 hero:
   name: "Roleplay.net"
-  text: "Roleplay.net Website"
-  tagline: My great project tagline
+  text: "Untertitel"
+  tagline: Unter-Untertitel
   actions:
     - theme: brand
-      text: Markdown Examples
+      text: Knopf 1
       link: /markdown-examples
     - theme: alt
-      text: API Examples
+      text: Knopf 2
       link: /api-examples
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Übersicht
+    details: Grundlegendes über Roleplay.net
+    link: /pages/general
+  - title: Minecraft
+    details: Der Minecraft Server im Detail
+    link: /pages/minecraft
+  - title: FiveM
+    details: Der FiveM Server im Detail
+    link: /pages/fivem
 ---
-

@@ -5,24 +5,27 @@ export default defineConfig({
   title: "Roleplay.net",
   description: "Roleplay.net Website",
   themeConfig: {
-    // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
-    ],
-
-    sidebar: [
-      {
-        text: 'Examples',
-        items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
-        ]
-      }
+      { text: 'Startseite', link: '/' },
+      { text: 'Übersicht', link: '/pages/general' },
+      { text: 'Minecraft', link: '/pages/minecraft' },
+      { text: 'FiveM', link: '/pages/fivem' }
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
-    ]
+      { icon: 'discord', link: 'https://discord.gg/JRQdV5BPjY', ariaLabel: 'Discord' },
+      { icon: 'instagram', link: 'https://www.instagram.com/roleplaynet.official', ariaLabel: 'Instagram' },
+      { icon: 'reddit', link: 'https://www.reddit.com/r/RoleplayNet/', ariaLabel: 'Reddit' },
+      { icon: 'youtube', link: 'https://www.youtube.com/@Roleplay-net', ariaLabel: 'Youtube' }
+    ],
+
+    footer: {
+      copyright: '© 2025 Roleplay.net'
+    },
+
+    outline: {
+      level: [1, 6],
+      label: "Inhalte"
+    },
   }
 })

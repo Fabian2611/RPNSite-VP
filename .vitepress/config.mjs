@@ -16,7 +16,8 @@ export default defineConfig({
       { icon: 'discord', link: 'https://discord.gg/JRQdV5BPjY', ariaLabel: 'Discord' },
       { icon: 'instagram', link: 'https://www.instagram.com/roleplaynet.official', ariaLabel: 'Instagram' },
       { icon: 'reddit', link: 'https://www.reddit.com/r/RoleplayNet/', ariaLabel: 'Reddit' },
-      { icon: 'youtube', link: 'https://www.youtube.com/@Roleplay-net', ariaLabel: 'Youtube' }
+      { icon: 'youtube', link: 'https://www.youtube.com/@Roleplay-net', ariaLabel: 'Youtube' },
+      { icon: 'maildotru', link: 'mailto:info@roleplaynet.de', ariaLabel: 'E-Mail' },
     ],
 
     footer: {

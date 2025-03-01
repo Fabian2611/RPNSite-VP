@@ -5,13 +5,6 @@ layout: home
 hero:
   name: "Roleplay.net"
   text: "Eine Welt regiert von Macht und Reichtum"
-  actions:
-    - theme: brand
-      text: Knopf 1
-      link: /markdown-examples
-    - theme: alt
-      text: Knopf 2
-      link: /api-examples
 
 features:
   - title: Übersicht

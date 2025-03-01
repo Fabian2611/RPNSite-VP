@@ -4,8 +4,7 @@ layout: home
 
 hero:
   name: "Roleplay.net"
-  text: "Untertitel"
-  tagline: Unter-Untertitel
+  text: "Eine Welt regiert von Macht und Reichtum"
   actions:
     - theme: brand
       text: Knopf 1

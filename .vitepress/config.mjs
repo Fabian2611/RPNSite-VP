@@ -3,7 +3,9 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Roleplay.net",
-  description: "Roleplay.net Website",
+  description: "Roleplay.net Homepage",
+  ignoreDeadLinks: true,
+  
   themeConfig: {
     nav: [
       { text: 'Startseite', link: '/' },

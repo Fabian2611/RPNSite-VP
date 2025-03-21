@@ -42,7 +42,7 @@ Du möchtest auf dem Server spielen? Super! Es gibt zwei Möglichkeiten, dem Ser
 ::: warning Achtung!
 Nur für erfahrene Spieler.
 :::
-*Das aktuelle Modpack findest du [hier](/static/pack-1.8.1.zip) als zip-Datei und [hier](/static/modlist.txt) als Liste.*
+*Das aktuelle Modpack findest du [hier](../static/modpack-latest.zip) als zip-Datei, [hier](../static/modpack-latest.mrpack) als Modrinth-Modpack und [hier](../static/modlist.txt) als Liste.*
 1. Installiere [Forge 47.3.7](https://adfoc.us/serve/sitelinks/?id=271228&url=https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.3.7/forge-1.20.1-47.3.7-installer.jar). Dafür musst du Minecraft 1.20.1 schon einmal ohne Mods gestartet haben.
 2. Gehe nach `C:\Users\DeinNutzername\curseforge\minecraft\Instances\RPN - Revoloution\mods` und füge dort alle Mods ein.
 3. Starte den Minecraft Launcher und wähle die Version *1.20.1-forge-47.3.7* aus.

@@ -29,4 +29,4 @@ alles um das bestmögliche Spielerlebnis zu gestalten. Beispiele hierfür sind:
 
 ## Beitritt
 Du möchtest auf dem Server spielen? Super! Du findest uns in der FiveM Serverliste.
-Solltest du doch noch Schwierigkeiten haben uns zu finden, Stell deinen Suchfilter auf die Sprache "Deutsch", oder gib in der Suchleiste einfach "Roleplay.net" ein.
+Solltest du doch noch Schwierigkeiten haben uns zu finden, stell deinen Suchfilter auf die Sprache "Deutsch", oder gib in der Suchleiste einfach "Roleplay.net" ein.

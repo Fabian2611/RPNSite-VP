@@ -6,7 +6,7 @@ description: Der Roleplay.net FiveM Server
 ::: warning Achtung!
 Der Server ist nur für Spieler über 15 Jahre verfügbar!
 :::
-Unser FiveM Server spielt im gegensatz zu unserem Minecraft Server in der heutigen Zeit. Der Staat Infinity hat neues Land eingenommen,
+Unser FiveM Server spielt im Gegensatz zu unserem Minecraft Server in der heutigen Zeit. Der Staat Infinity hat neues Land eingenommen,
 dazu gehört auch die Kolonialstadt Los Santos. Ein Jahrhundert später ist Los Santos eine gigantische Stadt und immernoch unter der Kontrolle von Infinity. Die ICA (Infinity State Agency)
 Leitet die Behörden und sorgt für Ordnung.
 

@@ -39,18 +39,19 @@ Denke auch daran, für das beste Erlebnis dem [Discord Server](https://discord.g
 2. Dein Computer oder Laptop sollte mit mindestens 8GB Arbeitsspeicher ausgestattet sein.
 
 ### 1. Automatisch
+::: tip Hinweis
+Wenn du Modrinth benutzt, kannst du [hier](../static/modpack-latest.mrpack) das Modpack herunterladen.
+:::
 1. Installiere [CurseForge](https://www.curseforge.com/download/app), wenn du es nicht schon installiert hast.
 2. Wähle in CurseForge "*Minecraft*" aus.
 3. Suche oben nach dem Modpack "*RPN - Revolution*" oder verwende [diesen](https://www.curseforge.com/minecraft/modpacks/rpn-revoloution) Link.
 4. Starte das Modpack und betrete den Server mit der IP `roleplaynet.de`.
 
 ### 2. Manuell
-
 ::: warning Achtung!
 Nur für erfahrene Modder.
 :::
-
-*Das aktuelle Modpack findest du [hier](../static/modpack-latest.zip) als zip-Datei und [hier](../static/modlist.txt) als Liste. Die Inhalte des kubejs Ordners findest du [hier](https://github.com/Fabian2611/RPNkubejs).*
+*Das aktuelle Modpack findest du [hier](../static/modpack-latest.zip) als zip-Datei. [Hier](../static/modlist.txt) findest du die Modliste, und die Inhalte des kubejs Ordners findest du [hier](https://github.com/Fabian2611/RPNkubejs).*
 
 1. Starte einmal die Minecraft Vanilla Version 1.20.1. Sobald sie fertig gestartet ist, kannst du sie sofort wieder schließen.
 2. Installiere [Forge 47.4.0](https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.4.0/forge-1.20.1-47.4.0-installer.jar).

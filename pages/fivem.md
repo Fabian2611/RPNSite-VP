@@ -6,13 +6,15 @@ description: Der Roleplay.net FiveM Server
 ::: warning Achtung!
 Der Server ist nur für Spieler über 15 Jahre verfügbar!
 :::
+::: warning Server Offline
+Der Server ist aktuell noch nicht online. Tritt für Updates dem Discord Server bei.
+:::
 Unser FiveM Server spielt im Gegensatz zu unserem Minecraft Server in der heutigen Zeit. Der Staat Infinity hat neues Land eingenommen,
 dazu gehört auch die Kolonialstadt Los Santos. Ein Jahrhundert später ist Los Santos eine gigantische Stadt und immernoch unter der Kontrolle von Infinity. Die ICA (Infinity State Agency)
 Leitet die Behörden und sorgt für Ordnung.
 
 Egal ob legal oder illegal, auf Roleplay.net kannst du die Geschichte deines Charakters neu erfinden und die Möglichkeiten des Roleplays auslasten.
-Verschiedenste und großteils selbst angepasste Mods ermöglichen noch besseres Roleplay in den verschiedensten Branchen. Egal ob als Anwalt, Politiker, Müllmann oder Mafioso, hier kannst du
-die Geschichte deines Charakters selbst gestalten.
+Verschiedenste und großteils selbst angepasste Mods ermöglichen noch besseres Roleplay in den verschiedensten Branchen. Egal ob als Anwalt, Politiker, Müllmann oder Mafioso, hier kannst du die Geschichte deines Charakters selbst gestalten.
 
 ## Mods
 Egal ob Spielverändernde Scripts, Autos oder Gebäude, wir verändern
@@ -28,5 +30,4 @@ alles um das bestmögliche Spielerlebnis zu gestalten. Beispiele hierfür sind:
 ...und vieles mehr!
 
 ## Beitritt
-Du möchtest auf dem Server spielen? Super! Du findest uns in der FiveM Serverliste.
-Solltest du doch noch Schwierigkeiten haben uns zu finden, stell deinen Suchfilter auf die Sprache "Deutsch", oder gib in der Suchleiste einfach "Roleplay.net" ein.
+Leider ist der Server noch nicht online. Für Updates und Benachrichtigungen kannst du dem Discord Server beitreten.

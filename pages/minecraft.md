@@ -40,7 +40,7 @@ Denke auch daran, für das beste Erlebnis dem [Discord Server](https://discord.g
 
 ### 1. Automatisch
 ::: tip Hinweis
-Wenn du Modrinth benutzt, kannst du [hier](../static/modpack-latest.mrpack) das Modpack herunterladen.
+Wenn du Modrinth benutzt, kannst du [hier](../static/modpack-latest.mrpack){target=_blank} das Modpack herunterladen.
 :::
 1. Installiere [CurseForge](https://www.curseforge.com/download/app), wenn du es nicht schon installiert hast.
 2. Wähle in CurseForge "*Minecraft*" aus.
@@ -51,7 +51,7 @@ Wenn du Modrinth benutzt, kannst du [hier](../static/modpack-latest.mrpack) das 
 ::: warning Achtung!
 Nur für erfahrene Modder.
 :::
-*Das aktuelle Modpack findest du [hier](../static/modpack-latest.zip) als zip-Datei. [Hier](../static/modlist.txt) findest du die Modliste, und die Inhalte des kubejs Ordners findest du [hier](https://github.com/Fabian2611/RPNkubejs).*
+*Das aktuelle Modpack findest du [hier](../static/modpack-latest.zip){target=_blank} als zip-Datei. [Hier](../static/modlist.txt){target=_blank} findest du die Modliste, und die Inhalte des kubejs Ordners findest du [hier](https://github.com/Fabian2611/RPNkubejs).*
 
 1. Starte einmal die Minecraft Vanilla Version 1.20.1. Sobald sie fertig gestartet ist, kannst du sie sofort wieder schließen.
 2. Installiere [Forge 47.4.0](https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.4.0/forge-1.20.1-47.4.0-installer.jar).
